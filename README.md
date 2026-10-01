@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 📊 AI-Powered Business Growth Analytics Platform
+# 📊  Business Growth Analytics Platform
 
 An interactive Streamlit web app that lets any business upload a sales CSV
 and instantly get a KPI dashboard, customer segmentation, a 30-day sales
