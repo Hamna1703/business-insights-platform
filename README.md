@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 AI-Powered Business Growth Analytics Platform
 
 An interactive Streamlit web app that lets any business upload a sales CSV
@@ -74,3 +75,7 @@ mapping manually in the sidebar if the guess is wrong.
 
   Here's the deployed version of the application,Check out!
   https://business-analytics-tool-ghbzzds6ankgweoiembn3k.streamlit.app/
+=======
+# business-insights-platform
+Built an end-to-end business analytics web app (Python, Streamlit, Scikit-learn) that performs automated EDA, RFM customer segmentation via K-Means, sales forecasting via linear regression, and generates rule-based actionable insights from uploaded CSV data.
+>>>>>>> c612432a98b9249d54595e9db182f4e89c608e62
